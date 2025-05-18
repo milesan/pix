@@ -1,0 +1,1231 @@
+Chemical Supplements
+
+5-HTP (5-Hydroxytryptophan) (Implied by Tryptophan, but not explicitly listed as 5-HTP before. Tryptophan is listed, will keep Tryptophan. If 5-HTP was meant, it wasn't clearly stated as such in the source lists.)
+Acetyl-L-Carnitine (ALCAR)
+Acetaminophen (Paracetamol)
+Acetylsalicylic Acid (Aspirin)
+Adenosine
+Adrafinil
+Agmatine
+Alanine
+Alanyl-Glutamine
+Alginic Acid
+Alpha-GPC (Alpha-Glycerophosphocholine)
+Alpha-Ketoglutarate
+Alpha-Lipoic Acid
+Alpha-Tocopherol (Vitamin E)
+Aminocaproic Acid
+Androstenedione
+Anhydrous Dibasic Calcium Phosphate
+Anthocyanins
+Apigenin
+Arginine (see L-Arginine)
+Ascorbic Acid (Vitamin C)
+Aspartame
+Astaxanthin
+ATP (Adenosine Triphosphate)
+Benzalkonium Chloride
+Benzyl Alcohol
+Beta-Alanine
+Beta-Carotene
+Beta-Cyclodextrin
+Beta-Glucans
+Beta-Hydroxy beta-Methylbutyrate (HMB)
+Beta-Sitosterol
+Betaine
+Betaine HCL
+BHA (Butylated Hydroxyanisole)
+BHT (Butylated Hydroxytoluene)
+Bile Salts
+Bioperine (Piperine)
+Biotin (Vitamin B7)
+Blue 1 (Brilliant Blue FCF)
+Boron
+Bromelain
+Caffeine
+Calcium
+Calcium Carbonate
+Calcium Citrate
+Calcium Hydroxyapatite
+Calcium Stearate
+Capsaicin
+Carboxymethylcellulose
+Carnosine
+Carotenoids
+Carrageenan
+CDP-Choline (Citicoline)
+Cellulose
+Chlorhexidine
+Chlorogenic Acid
+Choline
+Chromium Polynicotinate
+Citicoline (see CDP-Choline)
+Citric Acid
+Citrulline Malate
+Coenzyme Q10 (CoQ10)
+Creatine Citrate
+Creatine Monohydrate
+Croscarmellose Sodium
+Crospovidone
+Crystalline Cellulose
+Cysteine (see L-Cysteine)
+Dextrates
+Dextrin
+Dextrose
+DHA (Docosahexaenoic Acid)
+Dibasic Calcium Phosphate
+Dimethylglycine (DMG)
+Disodium EDTA
+EPA (Eicosapentaenoic Acid)
+Folic Acid (Vitamin B9)
+Fumaric Acid
+GABA (Gamma-Aminobutyric Acid)
+Glutamic Acid (see L-Glutamic Acid)
+Glutamine (see L-Glutamine)
+Glutathione
+Glycerin
+Glycine (see L-Glycine)
+Guar Gum
+Histidine (see L-Histidine)
+Hydroxyethylcellulose
+Hydroxypropyl Cellulose (HPC)
+Hydroxypropyl Methylcellulose (HPMC)
+Hypromellose
+Ibuprofen
+Inosine
+Inositol (Myo-Inositol)
+Iron Citrate
+Iron Oxide (Red Iron Oxide)
+Isoleucine (see L-Isoleucine)
+Isopropyl Myristate
+Kaolin
+L-Arginine
+L-Aspartic Acid
+L-Carnitine
+L-Citrulline
+L-Cysteine
+L-Glutamic Acid
+L-Glutamine
+L-Glycine
+L-Histidine
+L-Isoleucine
+L-Leucine
+L-Lysine
+L-Methionine
+L-Ornithine
+L-Phenylalanine
+L-Proline
+L-Threonine
+L-Tryptophan
+L-Tyrosine
+Lactose
+Lecithin
+Leucine (see L-Leucine)
+Lidocaine
+Lysine (see L-Lysine)
+Macrogol (Polyethylene Glycol - PEG)
+Magnesium Aluminum Silicate
+Magnesium Ascorbate
+Magnesium Citrate
+Magnesium Glycinate
+Magnesium Stearate
+Malic Acid
+Maltodextrin
+Manganese Citrate
+Mannitol
+Melatonin
+Methionine (see L-Methionine)
+Methylcobalamin (Vitamin B12)
+Methylene Blue
+Methylsulfonylmethane (MSM)
+Microcrystalline Cellulose (Avicel)
+Mineral Oil
+Modified Cellulose
+Monoglycerides
+Monosodium Glutamate (MSG)
+Montmorillonite
+Myo-Inositol (see Inositol)
+Myristic Acid
+N-Acetyl Cysteine (NAC)
+Neotame
+Niacin (Vitamin B3)
+Niacinamide (Nicotinamide)
+Nicotinamide (see Niacinamide)
+Nicotinic Acid (see Niacin)
+Nisin
+Nitrates
+Nitrites
+Nitrogen
+Norvaline
+Oleic Acid
+Orotic Acid
+Pantothenic Acid (Vitamin B5)
+Pectin
+Pentosan Polysulfate
+Phenoxyethanol
+Phenylalanine (see L-Phenylalanine)
+Phosphatidylserine
+Poloxamer
+Polysorbate
+Polyvinyl Alcohol
+Potassium Bromate
+Potassium Citrate
+Proline (see L-Proline)
+Pyridoxine (Vitamin B6)
+Quercetin
+Quercitrin
+Raffinose
+Rebaudioside A
+Red 40 (Allura Red AC)
+Resveratrol
+Retinol (Vitamin A)
+Rhamnose
+Riboflavin (Vitamin B2)
+Ribonucleic Acid (RNA)
+Ribose
+Rosavin
+Rutin
+S-Adenosylmethionine (SAMe)
+Saccharin
+Saccharose (Sucrose)
+Safranal
+Salicylic Acid
+Saponins
+Selenomethionine
+Selenium
+Sesquiterpene Lactones
+Shellac
+Silica (Silicon Dioxide)
+Silicon Dioxide
+Sildenafil
+Silver Compounds
+Silybin
+Silymarin
+Sinapic Acid
+Sinapine
+Sodium Alginate
+Sodium Benzoate
+Sodium Bicarbonate
+Sodium Caseinate
+Sodium Citrate
+Sodium Erythorbate
+Sodium Lauryl Sulfate
+Sodium Nitrate
+Sodium Nitrite
+Sodium Propionate
+Sorbic Acid
+Sorbitan
+Sorbitol
+Spermidine
+Sphingolipids
+Sphingomyelin
+Squalane
+Squalene
+Stachydrine
+Stearic Acid
+Steviol Glycosides
+Succinic Acid
+Sucralose
+Sucrose (see Saccharose)
+Superoxide Dismutase
+Tannins
+Tartaric Acid
+Taurine
+Taxifolin
+TBHQ (Tert-Butylhydroquinone)
+Thaumatin
+Theaflavins
+Theanine
+Theobromine
+Theophylline
+Thiamin (Vitamin B1)
+Threonine (see L-Threonine)
+Thymol
+Tocopherols (Vitamin E)
+Tocotrienols
+Triethyl Citrate
+Triethylglycine
+Trigonelline
+Trisodium Citrate
+Tryptophan (see L-Tryptophan)
+Tyrosol
+Tyrosine (see L-Tyrosine)
+Ubiquinol (CoQ10 reduced form)
+Ubiquinone (CoQ10 oxidized form)
+Ursolic Acid
+Valerenic Acid
+Valine
+Vanadium
+Vanillin
+Vasicine
+Verbascose
+Verbenalin
+Violaxanthin
+Vitamin A (see Retinol, Beta-Carotene)
+Vitamin B1 (see Thiamin)
+Vitamin B2 (see Riboflavin)
+Vitamin B3 (see Niacin)
+Vitamin B5 (see Pantothenic Acid)
+Vitamin B6 (see Pyridoxine)
+Vitamin B7 (see Biotin)
+Vitamin B9 (see Folic Acid)
+Vitamin B12 (see Methylcobalamin, Cyanocobalamin - though Cyanocobalamin wasn't explicitly listed)
+Vitamin D
+Vitamin E (see Alpha-Tocopherol, Tocopherols, Tocotrienols)
+Vitamin K
+Vitexin
+Vitexin-2"-O-glucoside
+Xanthan Gum
+Xanthine
+Xanthophylls
+Xylitol
+Xylooligosaccharides
+Yeast Beta-Glucan
+Yellow 5 (Tartrazine)
+Zeatin
+Zeaxanthin
+Zeolite
+Zinc Citrate
+Zinc Gluconate
+Zinc Glycinate
+Zinc Oxide
+Zinc Picolinate
+Zingiberene
+α-Asarone
+α-Carotene
+α-Cedrene
+α-Cedrol
+α-Linolenic Acid
+α-Mangostin
+α-Pinene
+α-Terpineol
+β-Asarone
+β-Carotene (see Beta-Carotene)
+β-Cedrene
+β-Cedrol
+β-Linolenic Acid
+β-Mangostin
+β-Pinene
+β-Terpineol
+δ-Tocopherol
+
+Plant Supplements
+
+Abutilon
+Acalypha
+Acampe
+Acer
+Acerola Cherry
+Achillea (Yarrow)
+Achillea Millefolium (Yarrow)
+Aconitum (Aconite)
+Acorus Calamus (Calamus)
+Actaea
+Actaea Pachypoda (White Baneberry / Doll's Eyes)
+Adiantum (Maidenhair Fern)
+Aegle Marmelos (Bael)
+Aerva Lanata
+Agapanthus
+Agave
+Ageratum
+Agrostemma Githago (Common Corncockle)
+Ailanthus Altissima (Tree of Heaven)
+Ajuga
+Ajuga Decumbens
+Alangium
+Albizia
+Albizia Julibrissin (Mimosa Tree / Silk Tree)
+Alcea (Hollyhock)
+Alchemilla (Lady's Mantle)
+Alfalfa
+Allium (Garlic, Onion genus)
+Allium Cepa (Onion)
+Allspice
+Alnus (Alder)
+Alnus Incana (Grey Alder)
+Aloe Arborescens
+Aloe Aristata
+Aloe Striatula
+Aloe Vera
+Aloe Vera Extract
+Aloe Vera Gel Extract
+Alpinia
+Alpinia Galanga (Galangal)
+Alpinia Officinarum (Lesser Galangal)
+Alsophila (Tree Fern genus)
+Alstonia
+Alternanthera
+Althaea (Marshmallow genus)
+Amaranthus (Amaranth)
+Amaryllis
+Amelanchier (Serviceberry)
+Ammi
+Ammi Majus (Bishop's Weed)
+Ammi Visnaga (Khella)
+Amorpha (False Indigo)
+Anacyclus
+Anacyclus Pyrethrum (Akarkara)
+Ananas (Pineapple genus)
+Ananas Comosus (Pineapple)
+Anaphalis
+Anaphalis Margaritacea (Pearly Everlasting)
+Andrographis
+Anemone
+Anemone Canadensis (Canada Anemone)
+Anemone Vitaliana
+Angelica
+Angelica Pubescens
+Anise
+Anisomeles
+Anisomeles Malabarica
+Annatto
+Anona (Soursop/Custard Apple genus)
+Anona Muricata (Soursop)
+Antennaria
+Antennaria Dioica (Pussytoes)
+Anthocephalus
+Anthriscus
+Anthriscus Cerefolium (Chervil)
+Antidesma
+Apeiba
+Aphelandra
+Aphloia
+Apium (Celery genus)
+Apium Graveolens (Celery)
+Apocynum (Dogbane)
+Aponogeton
+Apricot Kernel
+Aquilaria (Agarwood)
+Aquilegia (Columbine)
+Aralia
+Arctium (Burdock genus)
+Arctium Lappa (Greater Burdock)
+Ardisia
+Arenaria (Sandwort)
+Argania (Argan Tree)
+Aristolochia (Birthwort)
+Aromadendron
+Artemisia (Wormwood/Mugwort genus)
+Asarum (Wild Ginger)
+Asclepias (Milkweed)
+Ash Tree
+Ashwagandha
+Ashwagandha Extract
+Asian Ginseng (Panax Ginseng)
+Asparagus
+Asperula (Woodruff)
+Asplenium (Spleenwort)
+Aster
+Astragalus
+Astragalus Extract
+Athamantha
+Atractylodes
+Atriplex (Saltbush)
+Atropa (Belladonna genus)
+Attractylodes (see Atractylodes)
+Aubrieta
+Aucuba
+Avena (Oat)
+Averrhoa (Starfruit/Bilimbi genus)
+Avicennia (Mangrove genus)
+Avocado
+Azadirachta (Neem genus)
+Azalea
+Baccara
+Baccharis
+Bacopa Monnieri
+Balsam Fir
+Balsamodendron (Myrrh/Guggul genus)
+Bambu (Bamboo)
+Banksia
+Baptisia (Wild Indigo)
+Barberry
+Barbarea (Wintercress)
+Barleria
+Barosma (Buchu)
+Basella (Malabar Spinach)
+Basil
+Bauhinia (Orchid Tree)
+Bayberry
+Bearberry (Uva Ursi)
+Bee Balm
+Berberis (Barberry genus)
+Bergamot
+Berlandiera
+Beta (Beet genus)
+Betonica (Betony)
+Betula (Birch)
+Bident
+Bidens
+Bilberry
+Bilberry Extract
+Birch
+Bixa (Annatto genus)
+Black Cohosh
+Black Cohosh Extract
+Black Pepper
+Black Pepper Extract
+Blackberry
+Blackthorn
+Bladderwrack
+Blechnum (Hard Fern)
+Blood Orange (Plant source for tea)
+Blueberry
+Blue Vervain
+Blumea
+Boerhavia
+Bogbean
+Boldoa (Boldo)
+Bollea
+Bombax (Silk Cotton Tree)
+Boneset
+Borage
+Borassus (Palmyra Palm)
+Boswellia
+Boswellia Serrata
+Bougainvillea
+Boxelder
+Buckthorn
+Burdock
+Burdock Root
+Burdock Root Extract
+Butcher's Broom
+Cactus
+Calendula
+California Poppy
+Camellia (Tea plant genus)
+Camu Camu
+Cannabis
+Capparis (Caper genus)
+Capsicum (Pepper genus)
+Caraway
+Cardamom
+Cardamine (Bittercress)
+Cardiospermum (Heartseed)
+Carob
+Carpinus (Hornbeam)
+Carrot
+Caryocar (Pequi genus)
+Caryophyllum (Carnation genus)
+Cascara Sagrada
+Casuarina (Sheoak)
+Catnip
+Cayenne Pepper
+Cayenne Pepper Extract
+Celastrum (Staff Tree)
+Chamomile
+Chamomile Extract
+Chenopodium (Goosefoot genus)
+Cherry (Plant source for tea)
+Chicory
+Chives
+Chloranthus
+Chrysobalanus (Coco Plum)
+Cinnamon
+Cinnamon Bark
+Cistus (Rockrose)
+Clethra (Summersweet)
+Clove
+Clusia (Autograph Tree)
+Coccinia (Ivy Gourd)
+Cochlospermum
+Colchicum (Autumn Crocus)
+Coleus
+Coltsfoot
+Columnea
+Combretum (Bushwillow)
+Comfrey
+Commelina (Dayflower)
+Convolvulus (Bindweed)
+Coriander
+Cornus (Dogwood)
+Corylus (Hazel)
+Costus (Spiral Ginger)
+Cranberry
+Cranberry Extract
+Crassula (Jade Plant genus)
+Creeping Charlie
+Crescentia (Calabash Tree)
+Cucumber (Plant source for tea)
+Cumin
+Curcumin (Source: Turmeric, but listed as plant here)
+Cycas (Sago Palm)
+Cyclanthera
+Cynomorium (Maltese Mushroom plant)
+Cyperus (Sedge genus)
+Cyrilla (Swamp Cyrilla)
+Damiana
+Dandelion
+Dandelion Root
+Dandelion Root Extract
+Daphne
+Date Palm
+Datura (Jimsonweed)
+Dill
+Dong Quai
+Dong Quai Extract
+Echinacea
+Echinacea Extract
+Elderberry
+Elderberry Extract
+Elm
+Ephedra
+Evening Primrose
+Eyebright
+Eyebright Extract
+Fennel
+Fenugreek
+Fenugreek Extract
+Fig
+Flaxseed
+Foxglove
+Frankincense (Boswellia species)
+Galangal
+Garlic
+Ginger
+Ginkgo Biloba
+Ginkgo Biloba Extract
+Ginseng (Panax species)
+Ginseng Extract
+Globe Artichoke
+Goldenseal
+Goldenseal Extract
+Goldthread
+Grapefruit (Plant source for tea)
+Grapeseed
+Green Tea
+Green Tea Extract
+Guarana
+Guarana Extract
+Guayusa
+Hawthorn
+Hawthorn Berry
+Hawthorn Berry Extract
+Hazelnut (Plant source for tea)
+Hemp
+Hibiscus
+Holy Basil (Tulsi)
+Honeybush
+Hops
+Horny Goat Weed (Epimedium)
+Horse Chestnut Extract
+Horsetail
+Hyaluronic Acid Extract (often from microbial fermentation or animal sources, but listed under plant extracts in source)
+Hypericum (St. John's Wort genus)
+Hyssop
+Ilex (Holly genus)
+Indian Gooseberry (Amla)
+Indian Gooseberry Extract
+Indian Paintbrush
+Indigo
+Ipecac
+Irish Moss (a seaweed/algae)
+Irvingia Gabonensis (African Mango)
+Jasmine Green Tea Extract
+Juniper
+Kava
+Kava Extract
+Lavender
+Lavender Extract
+Licorice Root
+Licorice Root Extract
+Maca
+Maca Extract
+Macca Powder (Maca)
+Macleaya Cordata Extract (Plume Poppy Extract)
+Marshmallow Root
+Milk Thistle
+Milk Thistle Extract
+Muira Puama
+Neem
+Neem Extract
+Nettle Root
+Nettle Root Extract
+Olive Leaf
+Olive Leaf Extract
+Onion Extract
+Oregano
+Papaya Extract
+Passionflower
+Passionflower Extract
+Pau d'Arco Extract
+Peppermint
+Peppermint Extract
+Pine Bark
+Pine Bark Extract
+Plantain
+Pomegranate Extract
+Quercetin Extract (Quercetin is chemical, extract implies plant source)
+Raspberry Leaf
+Raspberry Leaf Extract
+Red Clover
+Red Clover Extract
+Rhodiola Rosea
+Rhodiola Rosea Extract
+Rhubarb Extract
+Rose Hip Extract
+Rose Hips
+Rosemary
+Rosemary Extract
+Sage
+Sage Extract
+Sarsaparilla
+Saw Palmetto
+Saw Palmetto Extract
+Schisandra
+Schisandra Extract
+Seaweed Extract
+Skullcap
+Skullcap Extract
+Slippery Elm
+Slippery Elm Extract
+Solanum (Nightshade genus)
+St. John's Wort
+St. John's Wort Extract
+Star Anise
+Suma Root Extract
+Tea Tree Oil
+Thyme Oil
+Tribulus Terrestris
+Turmeric
+Turmeric Extract
+Uva Ursi (Bearberry)
+Uva Ursi Extract
+Valerian Root
+Valerian Root Extract
+Vervain
+Wheat Germ Extract
+Wheat Grass
+White Willow Bark Extract
+Wolfberry (Goji Berry)
+Wolfberry Extract
+Yarrow
+Yarrow Extract
+Yellow Dock
+Yellow Dock Extract
+Yellow Oleander Extract
+Yerba Mate
+Yerba Mate Extract
+Zingiber (Ginger genus)
+Zingiber officinale Extract (Ginger Extract)
+
+Food Supplements
+
+Acai Berries
+Ackee
+Alfalfa Sprouts
+Almonds
+Almond Milk
+Amaranth
+Ancho Chili Peppers
+Angel Food Cake
+Animal Fat
+Animal Liver
+Annatto Seeds
+Apple
+Apple Cider
+Apple Cider Vinegar
+Apricot
+Apricot Kernels
+Artichoke
+Artichoke Hearts
+Arugula
+Arugula Salad
+Asparagus (as food)
+Asparagus Tips
+Avocado (as food)
+Avocado Leaves
+Avocado Oil
+Baby Back Ribs
+Banana
+Banana Peels
+Barley Grass
+Barley Grass Juice
+Beef Liver
+Bee Pollen
+Beet Greens
+Beetroot
+Belgian Endive
+Blackberries
+Blood Oranges
+Bok Choy
+Bok Choy Stems
+Bone Broth
+Brazil Nuts
+Broccoli
+Brussels Sprouts
+Buckwheat
+Cabbage
+Carrots
+Cashews
+Cauliflower
+Celery
+Cherry (as food)
+Chlorella
+Cocoa
+Coconut Oil
+Coconut Water
+Coffee
+Cucumber (as food)
+Dates
+Dulse (seaweed)
+Egg Yolks
+Eggshell Membrane
+Endive
+Escargot
+Falafel
+Fennel (as food)
+Fermented Foods
+Figs
+Fish Oil
+Flaxseed Oil
+Flaxseeds (as food)
+Garlic (as food)
+Garlic Powder
+Gelatin
+Ginger (as food)
+Goat's Milk
+Goji Berries (Wolfberry)
+Grapefruit
+Grapes
+Green Beans
+Green Superfood (blend)
+Guava
+Haggis
+Hazelnuts
+Honey
+Hydrolyzed Vegetable Protein
+Kale
+Kale Chips
+Kelp
+Kidney Beans
+Kimchi
+Leeks
+Lecithin (as food supplement)
+Lemons
+Lettuce
+Lima Beans
+Macadamia Nut Oil
+Mango
+MCT Oil (Medium-Chain Triglycerides)
+Melons
+Milk
+Millet
+Mushrooms (general culinary)
+Mustard Greens
+Mustard Oil
+Nectarines
+Oats
+Olive Oil
+Omega-3 Fatty Acids (from food sources like fish oil)
+Onions (as food)
+Oranges
+Papaya
+Paprika
+Parsley
+Parsnips
+Peaches
+Peanuts
+Pears
+Peas
+Pineapple
+Pistachios
+Plums
+Pomegranate
+Pumpkin Seeds
+Quail
+Quail Eggs
+Quinoa
+Rabbit Meat
+Radishes
+Raisins
+Raspberries
+Ratatouille
+Ready-to-eat meals
+Red Cabbage
+Red Currant
+Red Kidney Beans
+Red Meat
+Red Pepper
+Red Wine
+Refined Carbohydrates
+Refined Sugar
+Reggiano Cheese
+Relish
+Rennet
+Restaurant meals
+Rhubarb
+Rice
+Rice Bran
+Rice Bran Oil
+Ricotta Cheese
+Roasted Coffee
+Roasted Nuts
+Rock Salt
+Roquefort Cheese
+Rosemary (as food)
+Rotisserie Chicken
+Rye Bread
+Safflower Oil
+Saffron (as food spice)
+Sage (as food)
+Salad Dressings
+Salmon
+Salt
+Sandwiches
+Sardines
+Sauces
+Sausage Casing
+Sausages
+Savory Snacks
+Sea Buckthorn
+Sea Salt
+Seaweed
+Semi-sweet Chocolate
+Sesame Oil
+Sesame Seeds
+Shallots
+Shellfish
+Shrimp
+Sicilian Cheese
+Sienna Pepper
+Skim Milk
+Skim Milk Powder
+Slaw
+Smoked Fish
+Smoked Meats
+Snack Foods
+Soft Drinks
+Soft Margarine
+Soluble Fiber
+Sorbet
+Soufflé
+Soup
+Sour Cream
+Soybeans
+Soy Lecithin (see Lecithin)
+Soy Milk
+Soybean Oil
+Spaghetti
+Spice Blends
+Spices
+Spinach
+Spinach Powder
+Sprouts
+Sprouted Grains
+Sprouted Pumpkin Seeds
+Squash
+Starch (as food component)
+Steak
+Stevia (as food sweetener)
+Stollen
+Stone Fruits
+Store-bought Cookies
+Strawberries
+String Beans
+Sugar (as food)
+Sugar-free Gum
+Sunflower Oil
+Sushi
+Sweet Potatoes
+Swiss Cheese
+Table Sugar
+Tacos
+Taro Root
+Tea
+Tempeh
+Teriyaki Sauce
+Tofu
+Tomatoes
+Turmeric Latte
+Turnips
+Vegetable Oils
+Vegetable Protein
+Vinegar
+Walnuts
+Watercress
+Watermelon
+Whey
+Whey Protein
+Yams
+Yeast Extract
+Yogurt
+Zucchini
+
+Fungi Supplements
+
+Agaricus
+Agaricus Blazei
+Agrocybe
+Amanita
+Amillaria
+Armillaria
+Aspergillus
+Auricularia (Wood Ear Mushroom)
+Boletus
+Cantharellus (Chanterelle genus)
+Chaga Mushroom (Inonotus Obliquus)
+Chanterelle
+Clathrus (Stinkhorn genus)
+Coprinus (Inky Cap Mushroom)
+Cordyceps
+Craterellus (Black Trumpet genus)
+Crepidotus
+Cryptococcus
+Cylindrobasidium
+Dictyophora (Veiled Lady Mushroom)
+Diplodia
+Endothia
+Enoki Mushroom
+Epicoccum
+Ergot
+Exidia (Witch's Butter)
+Favolus
+Fomes (Hoof Fungus genus)
+Fuligo (Slime Mold, e.g., Dog Vomit Slime Mold)
+Fusarium
+Ganoderma
+Ganoderma Lucidum (Reishi Mushroom)
+Gloeophyllum
+Glycine max (Soybean, incorrectly listed under Fungi in source, should be Plant/Food)
+Grifola
+Grifola Frondosa (Maitake Mushroom)
+Gymnopilus
+Hericium
+Hericium Erinaceus (Lion's Mane Mushroom)
+Humicola
+Hydnum (Hedgehog Mushroom)
+Hysterium
+Inonotus
+Inonotus Obliquus (Chaga Mushroom)
+Irpex
+Lactarius (Milk Cap Mushroom)
+Laetiporus
+Laetiporus Sulphureus (Chicken of the Woods)
+Leccinum (Birch Bolete)
+Lentinus
+Leucangium (Oregon Black Truffle)
+Lion's Mane Mushroom (Hericium Erinaceus)
+Lycoperdon (Puffball Mushroom)
+Lyophyllum
+Macrolepiota (Parasol Mushroom)
+Maitake Mushroom (Grifola Frondosa)
+Marasmius (Fairy Ring Mushroom genus)
+Melanoleuca
+Merulius (Dry Rot Fungus)
+Morchella (Morel Mushroom)
+Mucor
+Oyster Mushroom
+Porcini Mushroom
+Reishi Mushroom (Ganoderma Lucidum)
+Shiitake Mushroom
+Turkey Tail Mushroom
+
+CHEMICAL SUPPLEMENTS — KEY OMISSIONS (20)
+
+    5-Hydroxytryptophan (5-HTP)
+
+    Acetylated Glutathione
+
+    C60 Fullerene
+
+    Collagen Hydrolysate
+
+    Dehydroepiandrosterone (DHEA)
+
+    Glucosamine Sulfate
+
+    Methylene Blue (Methylthioninium Chloride)
+
+    Nicotinamide Mononucleotide (NMN)
+
+    Nicotinamide Riboside (NR)
+
+    Noopept (N-Phenylacetyl-L-Prolylglycine t-Amide)
+
+    Oxaloacetate
+
+    Phenylpiracetam
+
+    Pregnenolone
+
+    Pyrroloquinoline Quinone (PQQ)
+
+    S-Adenosyl-L-Methionine (SAMe)
+
+    Tetrahydrocurcumin
+
+    Trimethylglycine (Betaine Anhydrous)
+
+    Uridine Monophosphate (UMP)
+
+    Verisol® Collagen Peptides
+
+    β-Hydroxy-β-methylbutyrate Free Acid (HMB-FA)
+
+PLANT-DERIVED SUPPLEMENTS — KEY OMISSIONS (14)
+
+    Cat’s Claw (Uncaria tomentosa)
+
+    Cissus quadrangularis
+
+    Devil’s Claw (Harpagophytum procumbens)
+
+    Forskolin (Coleus forskohlii)
+
+    Grape Seed Extract (Vitis vinifera OPCs)
+
+    Gymnema sylvestre
+
+    Moringa oleifera
+
+    Mucuna pruriens (L-DOPA seed)
+
+    Olive Leaf (Olea europaea oleuropein)
+
+    Pau d’Arco (Tabebuia impetiginosa)
+
+    Rhaponticum carthamoides (Maral root)
+
+    Sida cordifolia
+
+    Tongkat Ali (Eurycoma longifolia)
+
+    Yohimbe (Pausinystalia johimbe)
+
+FOOD-BASED SUPPLEMENTS — KEY OMISSIONS (15)
+
+    Bone Marrow (bovine)
+
+    Brewers’ Yeast
+
+    Chia Seeds
+
+    Collagen Broth
+
+    Fermented Cod Liver Oil
+
+    Ghee
+
+    Hemp Hearts
+
+    Natto (fermented soy)
+
+    Nutritional Yeast
+
+    Spirulina
+
+    Sunflower Lecithin
+
+    Tart Cherry Concentrate
+
+    Wheat Germ Oil
+
+    Whole Egg Powder
+
+    Wild Rice
+
+FUNGAL SUPPLEMENTS — KEY OMISSIONS (10)
+
+    Agarikon (Fomitopsis officinalis)
+
+    Antrodia camphorata (Taiwanofungus)
+
+    Birch Polypore (Piptoporus betulinus)
+
+    Lepista nuda (Wood Blewit)
+
+    Polyporus umbellatus
+
+    Poria cocos (Wolfiporia extensa)
+
+    Sparassis crispa (Cauliflower fungus)
+
+    Trametes betulina
+
+    Tremella fuciformis
+
+    Xylaria nigripes (Wu Ling Shen)
+
+TCM PLANT / FUNGAL MATERIA MEDICA — ADDITIONS (alphabetical)
+Achyranthes bidentata (Niu Xi)
+Aconitum carmichaelii (Fu Zi) ⚠ toxic
+Adenophora stricta (Nan Sha Shen)
+Alisma orientale (Ze Xie)
+Angelica dahurica (Bai Zhi)
+Artemisia annua (Qing Hao)
+Asarum sieboldii (Xi Xin) ⚠
+Bupleurum chinense (Chai Hu)
+Cinnamomum cassia (Rou Gui)
+Codonopsis pilosula (Dang Shen)
+Cornus officinalis (Shan Zhu Yu)
+Coptis chinensis (Huang Lian)
+Corydalis yanhusuo (Yan Hu Suo)
+Cynanchum atratum (Bai Qian)
+Dendrobium nobile (Shi Hu)
+Dioscorea opposita (Shan Yao)
+Ephedra sinica (Ma Huang) ⚠
+Eucommia ulmoides (Du Zhong)
+Forsythia suspensa (Lian Qiao)
+Gardenia jasminoides (Zhi Zi)
+Gastrodia elata (Tian Ma)
+Gentiana scabra (Qin Jiao)
+Ginkgo biloba (Yin Xing Ye)
+Glycyrrhiza uralensis (Gan Cao)
+Houttuynia cordata (Yu Xing Cao)
+Ligusticum chuanxiong (Chuan Xiong)
+Lonicera japonica (Jin Yin Hua)
+Lycium barbarum (Gou Qi Zi)
+Magnolia officinalis (Hou Po)
+Mentha haplocalyx (Bo He)
+Morus alba (Sang Bai Pi / Sang Ye)
+Notopterygium incisum (Qiang Huo)
+Paeonia lactiflora (Bai Shao)
+Paeonia suffruticosa (Mu Dan Pi)
+Panax notoginseng (San Qi)
+Phellodendron amurense (Huang Bai)
+Polygonum multiflorum (He Shou Wu)
+Polygonum cuspidatum (Hu Zhang)
+Poria cocos (Fu Ling)
+Prunella vulgaris (Xia Ku Cao)
+Rehmannia glutinosa (Sheng Di Huang / Shu Di Huang)
+Rheum palmatum (Da Huang)
+Salvia miltiorrhiza (Dan Shen)
+Scutellaria baicalensis (Huang Qin)
+Siler divaricata (Fang Feng)
+Smilax glabra (Tu Fu Ling)
+Sophora flavescens (Ku Shen)
+Uncaria rhynchophylla (Gou Teng)
+Zingiber officinale (Gan Jiang / Sheng Jiang)
+Ziziphus jujuba (Da Zao)
+
+TCM ANIMAL-DERIVED SUBSTANCES — ADDITIONS (alphabetical)
+Bombyx Batryticatus (Jiang Can — stiff silkworm)
+Calculus Bovis (Niu Huang — ox gallstone)
+Cervi Cornu (Lu Rong — deer velvet)
+Cornu Saigae Tataricae (Ling Yang Jiao — antelope horn)
+Gecko (Ge Jie)
+Hirudo (Shui Zhi — medicinal leech)
+Ostreae Concha (Mu Li — oyster shell)*
+Placenta Hominis (Zi He Che)
+Scolopendra subspinipes (Wu Gong — centipede)
+Scorpio (Quan Xie)
+Testudinis Plastrum (Guideline Gui Ban — turtle plastron)
+
+*classified as animal-origin calcium but often grouped with minerals
+
+TCM MINERAL/INORGANIC MATERIA — ADDITIONS (alphabetical)
+Alumen (Ming Fan)
+Borneolum Syntheticum (Bing Pian)
+Cinnabaris (Zhu Sha) ⚠
+Dragon’s Bone (Long Gu)
+Fluoritum (Zi Shi Ying)
+Gypsum Fibrosum (Shi Gao)
+Hematitum (Dai Zhe Shi)
+Lithargite (Mi Tuo Seng)
+Mirabilitum (Mang Xiao)
+Muscovitum (Yun Mu)
+Pyritum (Zi Shi Ying alt.)
+Realgar (Xiong Huang) ⚠
+Sulphur (Liu Huang)
+Talcum (Hua Shi)
